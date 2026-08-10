@@ -9,3 +9,10 @@ Persistent world state
 Spatial representation (initially 2D)
 Deterministic updates
 ```
+
+```
+Environment
+VSCode 
+  -> Source Control
+  -> requirements.txt
+```
