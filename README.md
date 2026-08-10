@@ -9,8 +9,6 @@ Deterministic updates
 ```
 
 ```
-Deliverables
-
 By the end of Sprint 1 you should be able to:
 
 Create a world.
