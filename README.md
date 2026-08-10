@@ -15,4 +15,5 @@ Environment
 VSCode 
   -> Source Control
   -> requirements.txt
+I started using qt designer (seperate install) but decided its easier to just write the ui in code
 ```
