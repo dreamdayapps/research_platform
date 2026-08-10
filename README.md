@@ -11,6 +11,19 @@ Deterministic updates
 ```
 
 ```
+Deliverables
+
+By the end of Sprint 1 you should be able to:
+
+Create a world.
+Advance simulation ticks.
+Spawn objects.
+Store objects in space.
+Update every object once per tick.
+Remove objects safely.
+```
+
+```
 Environment
 VSCode 
   -> Source Control
